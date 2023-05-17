@@ -11,9 +11,9 @@ Hi, I'm a Software Engineering and Management graduate from McMaster University.
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jdang22/
+- GitHub: https://github.com/dorps
+- Email: jeffrey.dang@live.com
 
 ## Logo
 - JD
