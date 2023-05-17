@@ -3,24 +3,36 @@ Back-end development and testing on the AI agents using Deep Q Network with Tian
 - ![capstones_logo](/images/capstone_logo.png)
 - Tags: Category 1
 - Badges:
-  - Back-end [blue]
+  - Back-End [blue]
+  - Machine Learning [red]
+  - Python [yellow]
 - Buttons:
   - Link [https://github.com/Dorps/aiboardgame]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Ruined
+A Unity roguelike game based around dispensible spell building, inspired by Slay the Spire and Megaman Battle Network.
+- ![ruined](/images/ruined.png)
 - Tags: Category 2
 - Badges:
-  - Badge [blue]
+  - Unity [blue]
+  - Game Development [red]
+  - Game Design [red]
+  - C# [yellow]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/Dorps/ruined]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## 1001 Snakebites
+An extensible web application developed to organize and guide Valorant players on utility lineups.
+- ![1001snakebites](/images/1001snakebites.png)
 - Tags: Category 3
 - Badges:
-  - Badge [blue]
+  - Front-end [blue]
+  - Back-end [blue]
+  - Web Development [red]
+  - HTML [yellow]
+  - CSS [yellow]
+  - SQL [yellow]
+  - Python [yellow]
+  - Django [yellow]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://dorps.pythonanywhere.com/]
