@@ -10,7 +10,7 @@
 Hi, I'm a Software Engineering and Management graduate from McMaster University. Passionate about software development and gaming.
 
 ## Contact
-Write your "Contact" section here.
+Reach me from any of the links below!
 - LinkedIn: https://www.linkedin.com/in/jdang22/
 - GitHub: https://github.com/dorps
 - Email: jeffrey.dang@live.com
