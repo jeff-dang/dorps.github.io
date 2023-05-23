@@ -5,6 +5,7 @@ Back-end development and testing on the AI agents using Deep Q Network with Tian
 - Badges:
   - Back-End [blue]
   - Machine Learning [red]
+  - Documentation [red]
   - Python [yellow]
 - Buttons:
   - Link [https://github.com/Dorps/aiboardgame]
@@ -37,7 +38,22 @@ An extensible web application developed to organize and guide Valorant players o
 - Buttons:
   - Link [https://dorps.pythonanywhere.com/]
 
-
+## Clicker Chat
+A fully documented web chat application involving an account system, chat room, and a multiplayer clicker minigame!
+- ![clickerchat](/images/clickerchat.png)
+- Tags: Category 3
+- Badges:
+  - Front-end [blue]
+  - Back-end [blue]
+  - Web Dev [red]
+  - Documentation [red]
+  - HTML [yellow]
+  - CSS [yellow]
+  - SQL [yellow]
+  - Python [yellow]
+  - Django [yellow]
+- Buttons:
+  - Link [https://gitlab.cas.mcmaster.ca/kallaym/3xa3project]
 
 
 
