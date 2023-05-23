@@ -1,23 +1,30 @@
 ## Complain!
-Description
-- Tags: Category 1
+A web application designed for crowd-sourcing local complaints online that can be viewed on updating map and resolved by civil service.  
+- Tags: Web-Dev
 - Badges:
-  - Badge [blue]
+  - Back-End [blue]
+  - Web-Dev [red]
+  - Firebase [yellow]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://devpost.com/software/complain]
 
-## Project 2
-Description
-- Tags: Category 2
+## Complain!
+A web application designed for crowd-sourcing local complaints online that can be viewed on updating map and resolved by civil service.  
+- Tags: Web-Dev
 - Badges:
-  - Badge [blue]
+  - Back-End [blue]
+  - Web-Dev [red]
+  - Firebase [yellow]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://devpost.com/software/complain]
 
-## Project 3
-Description
-- Tags: Category 3
+
+## Complain!
+A web application designed for crowd-sourcing local complaints online that can be viewed on updating map and resolved by civil service.  
+- Tags: Web-Dev
 - Badges:
-  - Badge [blue]
+  - Back-End [blue]
+  - Web-Dev [red]
+  - Firebase [yellow]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://devpost.com/software/complain]

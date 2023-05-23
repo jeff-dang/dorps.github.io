@@ -28,7 +28,7 @@ An extensible web application developed to organize and guide Valorant players o
 - Badges:
   - Front-end [blue]
   - Back-end [blue]
-  - Web Development [red]
+  - Web Dev [red]
   - HTML [yellow]
   - CSS [yellow]
   - SQL [yellow]
@@ -37,19 +37,8 @@ An extensible web application developed to organize and guide Valorant players o
 - Buttons:
   - Link [https://dorps.pythonanywhere.com/]
 
-## Test 2
-An extensible web application developed to organize and guide Valorant players on utility lineups.
-- ![1001snakebites](/images/1001snakebites.png)
-- Tags: Category 3
-- Badges:
-  - Front-end [blue]
-  - Back-end [blue]
-  - Web Development [red]
-  - HTML [yellow]
-  - CSS [yellow]
-  - SQL [yellow]
-  - Python [yellow]
-  - Django [yellow]
-- Buttons:
-  - Link [https://dorps.pythonanywhere.com/]
+
+
+
+
 
